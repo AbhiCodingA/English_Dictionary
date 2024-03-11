@@ -1,3 +1,22 @@
 # English_Dictionary
 # This app is coded using HTML ,CSS and vanilla js
-In this project , you will learn how to create an English dictionary web app that retrieves definitions from an API. Type a word into the input field and hit enter to see its definition, pronunciation, and hear the word pronounced correctly. The app also includes a loading effect and error handling for no internet connectivity. Use CSS to style the app and JavaScript to retrieve data, add the loading effect, and handle errors with try-catch blocks. You'll also learn how to use the Web Speech API to include an audio file for word pronunciation.
+
+1. Objective:
+   - Develop an English dictionary web app.
+
+2. Functionality:
+   - Retrieve definitions from an API.
+   - User types a word into the input field and hits enter to see its definition.
+   - Display pronunciation of the word.
+   - Include audio for correct pronunciation.
+   - Implement loading effect.
+   - Handle errors for no internet connectivity.
+
+3. Technologies:
+   - HTML: Create input field and display area.
+   - CSS: Style the app.
+   - JavaScript:
+     - Retrieve data from API.
+     - Add loading effect.
+     - Handle errors using try-catch blocks.
+     - Use Web Speech API for audio pronunciation.
